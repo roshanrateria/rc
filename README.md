@@ -1,17 +1,11 @@
 # rc
 
-## Overview
-
-No repository description is currently provided.
+Culinary Gemini Flare is an AI-powered recipe generator that creates recipes from ingredients and user preferences.
 
 ## Technology
 
-HTML
+- HTML
 
-## Repository contents
+## Run
 
-`assets`, `favicon.ico`, `index.html`, `placeholder.svg`, `robots.txt`
-
-## Notes
-
-This README documents the repository using metadata and files visible in the repository. See the source tree for the current implementation.
+Open `index.html` in a browser or serve the repository with any static web server.
